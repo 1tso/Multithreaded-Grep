@@ -16,11 +16,9 @@ public class MyLine {
         this.location = location;
     }
 
-
     public String getLine() {
         return this.line;
     }
-
 
     @Override
     public String toString() {
